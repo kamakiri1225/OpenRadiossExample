@@ -1,6 +1,6 @@
 # 【OpenRadioss入門】衝撃子をエアバッグで受け止める解析設定
 
-[OpenRadioss入門】衝撃子をエアバッグで受け止める解析設定](https://takun-physics.net/wp-admin/post-new.php?wp-post-new-reload=true)
+[【OpenRadioss入門】衝撃子をエアバッグで受け止める解析設定](https://takun-physics.net/wp-admin/post-new.php?wp-post-new-reload=true)
 
 ## 計算の実行方法
 
