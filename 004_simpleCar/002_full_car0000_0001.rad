@@ -1,0 +1,21 @@
+# RADIOSS
+#---1----|----2----|----3----|----4----|----5----|----6----|----7----|----8----|----9----|---10----|
+/RUN/002_full_car0000/1/
+              0.0601
+/ANIM/DT
+#   TSTART     TFREQ
+0.000000 0.003000
+/PRINT/-1000/55
+/TFILE/4
+#            dT_HIS
+0.000090
+/ANIM/ELEM/EPSP
+/ANIM/ELEM/VONM
+/ANIM/ELEM/ENER
+/ANIM/ELEM/HOURG
+/ANIM/VECT/VEL
+/ANIM/VECT/DISP
+/ANIM/VECT/FOPT
+/ANIM/VECT/CONT
+/ANIM/NODA/DMAS
+/END/ENGINE
